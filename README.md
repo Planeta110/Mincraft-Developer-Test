@@ -19,8 +19,9 @@ _¿No tienes Java 17 instalado?_ [Descárgalo aquí](https://www.oracle.com/java
 
 ## Preparación
 
-1. Descarga la última release del repositorio de GitHub.  
-   ![IMAGEN AQUÍ](https://raw.githubusercontent.com/Planeta110/Mincraft-Developer-Test/main/imgs/release.png)
+1. Descarga la última release del repositorio de GitHub.
+   ![IMAGEN AQUÍ](https://raw.githubusercontent.com/Planeta110/Mincraft-Developer-Test/main/imgs/release.png) 
+   - O tambien puedes descargar desde este link [Release 1.0.0v](https://github.com/Planeta110/Mincraft-Developer-Test/releases/tag/1.0.0v)
 
 2. Descomprime el archivo descargado si es necesario.
 
