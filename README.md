@@ -71,3 +71,19 @@ Instala **Player** en el plugin PlaceholderAPI con el comando:
    - **Permisos**: `fly`, `near`
    - **Padre del grupo**: Default  
      Comando: `/lp group rey parent set default`
+
+## 📦 Entregar el proyecto
+
+Una vez terminado todo lo anterior, ve al chat del **Discord** donde te estábamos atendiendo y **sube las siguientes carpetas completas**:
+
+### 🔧 Carpetas requeridas:
+
+- `plugins/LuckPerms`
+- `plugins/CommandPanels`
+
+> 📁 Comprime ambas carpetas en un archivo `.zip` con tu nombre antes de enviarlas.  
+> Ejemplo: `NombreUsuario-DaynocraftTest.zip`
+
+Esto nos permitirá revisar tu configuración completa sin perder ningún detalle.
+
+> ⚠️ Si el archivo pesa demasiado, puedes subir las carpetas por separado.
